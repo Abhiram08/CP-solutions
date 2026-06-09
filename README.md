@@ -19,3 +19,10 @@ up to Codeforces problem solving.
 - Math foundations (cp-algorithms.com) — in progress
 - CSES problem set — in progress
 - Codeforces problem solving — in progress
+
+## Codeforces
+- Solved Problem 1916B - 9/6/26
+
+## CSES Problem Set
+- Solved Weird Algorithm - 10/6/26
+- Solved Number Spiral - 10/6/26
