@@ -9,10 +9,13 @@ up to Codeforces problem solving.
 
 ## Current status
 - Learning C++ basics (learncpp.com)
-- Chapter 2 in progress
+- Chapter 8 in progress
+- Learning Math Foundations from cp-algorithms.com
+- Solving basics Codeforces Problems
+- Solving basic problems from CSES Problem Set
 
 ## Roadmap
 - C++ basics (Ch. 1–17) — in progress
-- Math foundations (cp-algorithms.com) — upcoming
-- CSES problem set — upcoming
-- Codeforces problem solving — upcoming
+- Math foundations (cp-algorithms.com) — in progress
+- CSES problem set — in progress
+- Codeforces problem solving — in progress
