@@ -1,6 +1,7 @@
 ## Codeforces
 - Solved Problem 1916B - 9/6/26
 - Solved Problem 2195A - 11/6/26
+- Solved Problem 2164B - 11/6/26
 
 ## CSES Problem Set
 - Solved Weird Algorithm - 10/6/26
