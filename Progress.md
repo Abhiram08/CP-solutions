@@ -7,6 +7,8 @@
 ## CSES Problem Set
 - Solved Weird Algorithm - 10/6/26
 - Solved Number Spiral - 10/6/26
+- Solved Repetitions - 11/6/26
+- Solved Missing Number - 11/6/26
 
 ## Math Implementations
 - GCD & LCM
