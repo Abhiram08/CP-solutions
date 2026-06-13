@@ -7,6 +7,8 @@
 - Solved Problem 2125B - 13/6/26
 - Solved Problem 2092A - 13/6/26
 - Solved Problem 2071A - 13/6/26
+- Solved Problem 2063A - 13/6/26
+- Solved Problem 2048A - 13/6/26
 
 ## CSES Problem Set
 - Solved Weird Algorithm - 10/6/26
