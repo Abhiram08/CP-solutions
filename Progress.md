@@ -9,12 +9,17 @@
 - Solved Problem 2071A - 13/6/26
 - Solved Problem 2063A - 13/6/26
 - Solved Problem 2048A - 13/6/26
+- Solved Problem 2037C - 14/6/26
+- Solved Problem 2035B - 14/6/26
 
 ## CSES Problem Set
 - Solved Weird Algorithm - 10/6/26
 - Solved Number Spiral - 10/6/26
 - Solved Repetitions - 11/6/26
 - Solved Missing Number - 11/6/26
+- Solved Repetitions - 12/6/26
+- Solved Permutations - 15/6/26
+- Solved Two Sets - 15/6/26
 
 ## Math Implementations
 - GCD & LCM
