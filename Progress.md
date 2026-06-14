@@ -25,3 +25,4 @@
 - GCD & LCM
 - Sieve of Eratostenes
 - Primality Tests(Only Trial)
+- Binary Exponentiation and applications(Only Modulus)
