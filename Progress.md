@@ -20,6 +20,10 @@
 - Solved Repetitions - 12/6/26
 - Solved Permutations - 15/6/26
 - Solved Two Sets - 15/6/26
+- Solved Increasing Array - 15/6/26
+- Solved Trailing Zeros - 15/6/26
+- Solved Two Nights - 15/6/26
+- Solved Coin Piles - 15/6/26
 
 ## Math Implementations
 - GCD & LCM
